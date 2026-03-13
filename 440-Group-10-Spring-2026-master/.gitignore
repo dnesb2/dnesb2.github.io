@@ -1,0 +1,7 @@
+# Secrets
+.env
+
+# Folders to ignore
+node_modules/
+venv/
+.DS_Store
